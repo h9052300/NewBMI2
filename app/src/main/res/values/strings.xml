@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewBMI</string>
+    <string name="title">計算你/妳的BMI值</string>
+    <string name="text1">身高(m)：</string>
+    <string name="text2">體重(kg)：</string>
+    <string name="text3">男性/女性：</string>
+</resources>
